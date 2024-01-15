@@ -1,2 +1,3 @@
-# Merge-Conflits REMOTE
+# Merge-Conflits
 Quelques lignes de textes
+REMOTE
